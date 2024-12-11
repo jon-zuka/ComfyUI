@@ -21,3 +21,8 @@ venv/
 *.log
 web_custom_versions/
 .DS_Store
+
+.direnv
+config
+!jupyter_lab_config.py
+.ipynb_*
